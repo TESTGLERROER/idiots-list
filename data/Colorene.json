@@ -1,0 +1,54 @@
+{
+  "id": 1174,
+  "name": "Colorene",
+  "author": "lblazen",
+  "creators": [],
+  "verifier": "lblazen",
+  "verification": "https://youtu.be/py4Al4Vw134",
+  "percentToQualify": "100",
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "MaybeSplash",
+      "link": "https://youtu.be/xpjh-XSYrdk",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=sIOQz9UuWyM&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "bazzie",
+      "link": "https://youtu.be/E2OhYFHadsw",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Slopes",
+      "link": "https://youtu.be/fItbA6-ddMI?si=hlkvgKVg4O3PpMpl&t=114",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "flo.wer",
+      "link": "https://www.youtube.com/watch?v=2_r3j7Vpl-c",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "GreenCat",
+      "link": "https://youtu.be/dJqzilb9qhM",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "ReedTimmersSorbet",
+      "link": "https://www.youtube.com/watch?v=KKd5aUEuJJE",
+      "percent": 100,
+      "fps": "CBF"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 8358,
+  "name": "Top 1 CL",
+  "author": "Boofer",
+  "creators": [],
+  "verifier": "CF.",
+  "verification": "https://www.youtube.com/watch?v=chZH4asRJjw",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "Boofer",
+      "link": "https://www.youtube.com/watch?v=G0JS0QoYGmY",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Txrea",
+      "link": "https://www.youtube.com/watch?v=ktPOG-9UpBE",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "flo.wer",
+      "link": "https://www.youtube.com/watch?v=qadNSQa0VoA",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "M336",
+      "link": "https://youtu.be/tBvkos7mK7M?si=rzQ-iLn77S2bnXau&t=104",
+      "percent": 100,
+      "fps": 240
+     },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=OGw17CSXSHc&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Virek",
+      "link": "https://www.youtube.com/watch?v=BA1HGmM1fVs&ab_channel=AnduvalGD",
+      "percent": 100,
+      "fps": 240,
+      "mobile": true
+    },
+    {
+      "user": "liam",
+      "link": "https://www.youtube.com/watch?v=ZTaKDq_l5oE&ab_channel=keys",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

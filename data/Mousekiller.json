@@ -1,0 +1,68 @@
+{
+  "id": "7597",
+  "name": "Mouse Killer",
+  "author": "Avto",
+  "creators": [],
+  "verifier": "Avto",
+  "verification": "https://youtu.be/MhPhSyFktto?si=FVFXa_CfIq4iX9S9",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "M336",
+      "link": "https://youtu.be/ObpzpLJ6M9s?si=DfXwQjI68nx4FSEk&t=2",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Arctical",
+      "link": "https://www.youtube.com/watch?v=pUHF-e-56sw",
+      "percent": 100,
+      "fps": 240
+    },
+     {
+      "user": "GreenCat",
+      "link": "https://www.youtube.com/watch?v=Qx0XNwPnBj8",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=_WA98L_ml9g&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "liam",
+      "link": "https://www.youtube.com/watch?v=_WA98L_ml9g&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240,
+      "mobile": true
+    },
+    {
+      "user": "Txrea",
+      "link": "https://www.youtube.com/watch?v=ktPOG-9UpBE",
+      "percent": 100,
+      "fps": 240,
+      "mobile": true
+    },
+    {
+      "user": "flo.wer",
+      "link": "https://www.youtube.com/watch?v=qadNSQa0VoA",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Osha",
+      "link": "https://youtu.be/ohfm7BbUlK4",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=9Nf417lwMrU&ab_channel=CF",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

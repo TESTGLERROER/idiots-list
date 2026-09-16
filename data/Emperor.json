@@ -1,0 +1,36 @@
+{
+  "id": "5295",
+  "name": "Emperor",
+  "author": "lblazen",
+  "creators": [],
+  "verifier": "lblazen",
+  "verification": "https://youtu.be/BLt7d5hH-i0",
+  "percentToQualify": 52,
+  "records": [
+    {
+      "user": "Slopes",
+      "link": "https://youtu.be/pW9eQKrhd3A",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=ipvsOXDwVzA",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "GreenCat",
+      "link": "https://www.youtube.com/watch?v=j-Xq7WNt6wQ",
+      "percent": 100,
+      "fps": 240
+    },
+     {
+      "user": "Cold",
+      "link": "https://www.youtube.com/watch?v=l0Z3bcH-Gwo",
+      "percent": 100,
+      "fps": 240,
+      "mobile": true
+    }
+  ]
+}

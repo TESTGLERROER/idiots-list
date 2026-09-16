@@ -1,0 +1,24 @@
+{
+  "id": "1334",
+  "name": "nekor",
+  "author": "lblazen",
+  "creators": [],
+  "verifier": "lblazen",
+  "verification": "https://youtu.be/3Rc4BrPO8rw",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=EosQ0XWLv0I",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=Maz6hTZN9Q0&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": "CBF"
+    }
+  ]
+}

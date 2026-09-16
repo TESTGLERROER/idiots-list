@@ -1,0 +1,24 @@
+{
+  "id": "8140",
+  "name": "17 cps",
+  "author": "BLCKD",
+  "creators": [],
+  "verifier": "CF.",
+  "verification": "https://www.youtube.com/watch?v=azupvP-FdJg&t=8s",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+        {
+      "user": "MaybeSplash",
+      "link": "https://youtu.be/SloHSgwlqrs",
+      "percent": 100,
+      "fps": 240
+        },
+        {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=VBh2BtjCvMg&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+        }
+    ]
+}

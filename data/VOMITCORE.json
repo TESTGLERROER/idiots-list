@@ -1,0 +1,30 @@
+{
+  "id": "6731",
+  "name": "VOMITCORE",
+  "author": "OwU",
+  "creators": [],
+  "verifier": "ThreeThreeSevenNine",
+  "verification": "https://www.youtube.com/watch?v=F4SJM2JNDCU",
+  "percentToQualify": "58",
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "GreenCat",
+      "link": "https://www.youtube.com/watch?v=Y3PyI0vhhak",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=_WA98L_ml9g&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=9Nf417lwMrU&ab_channel=CF",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

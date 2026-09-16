@@ -1,0 +1,18 @@
+{
+  "id": 8866,
+  "name": "thinkin bout you",
+  "author": "Sky",
+  "creators": [],
+  "verifier": "Ino",
+  "verification": "https://www.youtube.com/watch?v=oWFBOJp-VhY&ab_channel=Ino",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=cc-kcyHHAmo",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

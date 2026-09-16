@@ -1,0 +1,36 @@
+{
+  "id": 8406,
+  "name": "mysts",
+  "author": "sel",
+  "creators": [],
+  "verifier": "sel",
+  "verification": "https://youtu.be/x1THE7cAaUA",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "M336",
+      "link": "https://youtu.be/DqS8oDcottE?si=j_Ar2w71R5f-ql4q&t=269",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=OGw17CSXSHc&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Johnny",
+      "link": "https://youtu.be/nHzu9VDboAo",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "flo.wer",
+      "link": "https://www.youtube.com/watch?v=3Y5_fhtYASs",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

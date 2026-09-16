@@ -1,0 +1,18 @@
+{
+  "id": "8808",
+  "name": "Barturus",
+  "author": "Boofer",
+  "creators": [],
+  "verifier": "Boofer",
+  "verification": "https://www.youtube.com/watch?v=PF5rfBAa8sk&ab_channel=Boofer",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=W-i-z9ioKtk&ab_channel=Jayxofc",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
+}

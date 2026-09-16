@@ -1,0 +1,43 @@
+{
+  "id": 8458,
+  "name": "welcome to my new challenge list level",
+  "author": "liam",
+  "creators": [],
+  "verifier": "liam",
+  "verification": "https://youtu.be/BEwG4zkc0b0",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "M336",
+      "link": "https://youtu.be/s_fT6k6LT18?si=J7_bgndfJoQ4k-dN&t=427",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=OGw17CSXSHc&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Amityst",
+      "link": "https://www.youtube.com/watch?v=CU-fywMdw3o",
+      "percent": 100,
+      "fps": 240,
+      "mobile": true
+    },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=UU5T_wJAhIM&ab_channel=CF",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "flo.wer",
+      "link": "https://www.youtube.com/watch?v=aUahv3-8_30&ab_channel=Lacley",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+    "id": 9427,
+    "name": "REDCAR",
+    "author": "Cold",
+    "creators": [],
+    "verifier": "Cold",
+    "verification": "https://www.youtube.com/watch?v=RnUGfi7bh38",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+    {
+      "user": "snowfall",
+      "link": "https://youtu.be/r1aYywqZwwg?si=GwzNKVJFrSjUBwBR&t=186",
+      "percent": 100,
+      "fps": "CBF"
+    },
+    {
+      "user": "Boofer",
+      "link": "https://www.youtube.com/watch?v=IiU0G1B-q6o",
+      "percent": 100,
+      "fps": "CBF"
+    },
+    {
+      "user": "flo.wer",
+      "link": "https://www.youtube.com/watch?v=3Y5_fhtYASs",
+      "percent": 100,
+      "fps": "CBF"
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=1UZwsbMj9_w",
+      "percent": 100,
+      "fps": "CBF"
+    },
+    {
+      "user": "ReedTimmersSorbet",
+      "link": "https://www.youtube.com/watch?v=k6QdIicNCw0",
+      "percent": 100,
+      "fps": "CBF"
+    },
+    {
+      "user": "Amityst",
+      "link": "https://www.youtube.com/watch?v=MvFdAQN4rz8",
+      "percent": 100,
+      "fps": "CBF"
+    },
+    {
+      "user": "IMAXIPOD",
+      "link": "https://www.youtube.com/watch?v=wYquwroUWow",
+      "percent": 100,
+      "fps": "CBF"
+    },
+    {
+      "user": "Cherry",
+      "link": "https://youtu.be/WBq4tn23Vgo",
+      "percent": 100,
+      "fps": "CBF"
+    }
+  ]
+}

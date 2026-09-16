@@ -1,0 +1,85 @@
+{
+  "id": 2769,
+  "name": "Cry Me A Pond",
+  "author": "Kyy",
+  "creators": [],
+  "verifier": "flo.wer",
+  "verification": "https://www.youtube.com/watch?v=hkgzF_r5AKk",
+  "percentToQualify": "100",
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "lblazen",
+      "link": "https://youtu.be/tUFL9iSDUYo?si=YhZo7zIiQzisPO-k&t=5",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=sVNlQXt9vfs&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Space",
+      "link": "https://www.youtube.com/watch?v=Wkib8uKeAVU",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "MaybeSplash",
+      "link": "https://www.youtube.com/watch?v=w8weTUG0BCo",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Slopes",
+      "link": "https://youtu.be/fItbA6-ddMI?si=-YDYJTANdU205Cpr&t=83",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "iTzFrY",
+      "link": "https://youtu.be/mGK3HG6P5SE?si=zN3UtwyHTb3YDPha",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=hH2RDoE_Kgc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "GreenCat",
+      "link": "https://youtu.be/dJqzilb9qhM",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "GmdSketchy",
+      "link": "https://www.youtube.com/watch?v=xuN-Xby54BA",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "M336",
+      "link": "https://youtu.be/j_1EpKcN57s?si=pFjj8F7JnqQwR4tM&t=73",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Cold",
+      "link": "https://www.youtube.com/watch?v=zCm8502dETE",
+      "percent": 100,
+      "fps": 240,
+      "mobile": true
+    },
+    {
+      "user": "FogMello",
+      "link": "https://www.youtube.com/watch?v=d1YzsA35LOE",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+    "id": 1077,
+    "name": "Avernus",
+    "author": "JensenCranks90s",
+    "creators": ["JensenCranks90s"],
+    "verifier": "JensenCranks90s",
+    "verification": "https://www.youtube.com/watch?v=BAri4fCw1XI",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "flo.wer",
+            "link": "https://www.youtube.com/watch?v=yj6TgaktRcY",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+            "user": "M336",
+            "link": "https://youtu.be/_h90ndtpg28",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+            "user": "SebnkaGD",
+            "link": "https://youtu.be/qJnrp0o2Bi8?si=1aqScYk9yrqGu2P7",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+            "user": "lblazen",
+            "link": "https://youtu.be/6PSDiw5O-BM",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+            "user": "kartel",
+            "link": "https://youtu.be/ySWsLgDlxgk",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+            "user": "GDTurek",
+            "link": "https://youtu.be/xAePgm-n6Js",
+            "percent": 100,
+            "fps": 240
+        },
+          {
+            "user": "Avto",
+            "link": "https://youtu.be/AGcX0aIAOWY?si=APybMCgYdStiVk8J",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+            "user": "GreenCat",
+            "link": "https://www.youtube.com/watch?v=Qx0XNwPnBj8",
+            "percent": 100,
+            "fps": 240
+        },
+         {
+            "user": "Virek",
+            "link": "https://youtu.be/ihk1SEpw0wE",
+            "percent": 100,
+            "fps": 240,
+             "mobile": true
+        },
+        {
+            "user": "Amityst",
+            "link": "https://youtube.com/watch?v=wSSxq85xuD4",
+            "percent": 100,
+            "fps": 240,
+            "mobile": true
+        },
+        {
+            "user": "Arctical",
+            "link": "https://www.youtube.com/watch?v=egRH4uUI1RQ",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+            "user": "Jayxofc",
+            "link": "https://www.youtube.com/watch?v=_WA98L_ml9g&ab_channel=Jayxofc",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+            "user": "liam",
+            "link": "https://youtu.be/119Hb2TICTM?si=knOB0S_M64VLjlFM&t=61",
+            "percent": 100,
+            "fps": 240,
+            "mobile": true
+        },
+        {
+            "user": "Txrea",
+            "link": "https://www.youtube.com/watch?v=ktPOG-9UpBE",
+            "percent": 100,
+            "fps": 240,
+            "mobile": true
+        },
+        {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=9Nf417lwMrU&ab_channel=CF",
+      "percent": 100,
+      "fps": 240
+    }
+    ]
+}

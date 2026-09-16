@@ -1,0 +1,66 @@
+{
+  "id": 219,
+  "name": "Moldy Cheese Finale",
+  "author": "MaybeSplash",
+  "creators": [],
+  "verifier": "MaybeSplash",
+  "verification": "https://youtu.be/QDGk3_PmpNM",
+  "percentToQualify": "71",
+  "password": "012769",
+  "records": [
+    {
+      "user": "flo.wer",
+      "link": "https://www.youtube.com/watch?v=5XHW6B4U_Wg",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "lblazen",
+      "link": "YSBzZWNyZXQgY29tbWFuZCBpbiBhIHNlcnZlcg==",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "kartel",
+      "link": "https://youtu.be/FdpA6aAdtF8",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "GDTurek",
+      "link": "https://www.youtube.com/watch?v=oIqxds7-5qY",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=86SI1OAebak&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "M336",
+      "link": "https://www.youtube.com/watch?v=mErZjROiuFw&t=1090s",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=L12zVcIMKew",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "GreenCat",
+      "link": "https://www.youtube.com/watch?v=xNtjzW1zj-M",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "ReedTimmersSorbet",
+      "link": "https://www.youtube.com/watch?v=fmnQ1WmV-44",
+      "percent": 100,
+      "fps": "CBF"
+    }
+  ]
+}

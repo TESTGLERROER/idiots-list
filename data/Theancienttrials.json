@@ -1,0 +1,66 @@
+{
+  "id": "7612",
+  "name": "The Ancient Trials",
+  "author": "TheRealBlazerGD",
+  "creators": [],
+  "verifier": "Cold",
+  "verification": "https://www.youtube.com/watch?v=KR1SPSF32Sw",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+        {
+          "user": "GreenCat",
+          "link": "https://www.youtube.com/watch?v=Qx0XNwPnBj8",
+          "percent": 100,
+          "fps": 240
+        },
+        {
+      "user": "M336",
+      "link": "https://youtu.be/l-ZpkA53Gg4?si=I__NSQQUckYXyWhD&t=43",
+      "percent": 100,
+      "fps": 240
+        },
+        {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=_WA98L_ml9g&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+        },
+        {
+      "user": "flo.wer",
+      "link": "https://www.youtube.com/watch?v=qadNSQa0VoA",
+      "percent": 100,
+      "fps": 240
+        },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=9Nf417lwMrU&ab_channel=CF",
+      "percent": 100,
+      "fps": 240
+    },
+     {
+      "user": "snowfall",
+      "link": "https://www.youtube.com/watch?v=8e07Hm0ARmk&t=118s",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "ReedTimmersSorbet",
+      "link": "https://www.youtube.com/watch?v=S2pu0lV39pI",
+      "percent": 100,
+      "fps": "CBF"
+    },
+    {
+      "user": "Arctical",
+      "link": "https://youtu.be/96aR4aXLwsc",
+      "percent": 100,
+      "fps": "240"
+    },
+    {
+      "user": "nop1xxx",
+      "link": "https://www.youtube.com/watch?v=TJQSQPkSrDo",
+      "percent": 100,
+      "fps": "240"
+    }
+    ]
+}

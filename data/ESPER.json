@@ -1,0 +1,30 @@
+{
+  "id": 4107,
+  "name": "ESPER",
+  "author": "MaybeSplash",
+  "creators": [],
+  "verifier": "MaybeSplash",
+  "verification": "https://www.youtube.com/watch?v=WGeQRMAXo9U",
+  "percentToQualify": "66",
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=gZBtchj7UyI",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "GreenCat",
+      "link": "https://youtu.be/dJqzilb9qhM",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "ReedTimmersSorbet",
+      "link": "https://youtu.be/dYutlF3HpSE",
+      "percent": 100,
+      "fps": "CBF"
+    }
+  ]
+}

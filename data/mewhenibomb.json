@@ -1,0 +1,18 @@
+{
+  "id": "7403",
+  "name": "mewhenibomb",
+  "author": "Avto",
+  "creators": [],
+  "verifier": "Greencat",
+  "verification": "https://www.youtube.com/watch?v=yVx4W4mTE58",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "flo.wer",
+      "link": "https://youtu.be/fWJUgsXO2VE",
+      "percent": 100,
+      "fps": 280
+    }
+  ]
+}

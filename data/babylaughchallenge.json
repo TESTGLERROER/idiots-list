@@ -1,0 +1,93 @@
+{
+  "id": "7839",
+  "name": "baby laugh challenge",
+  "author": "woodyloubug",
+  "creators": [],
+  "verifier": "woodyloubug",
+  "verification": "https://youtu.be/ZsdN5L1Y3eU",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [  
+    {
+      "user": "Virek",
+      "link": "https://www.youtube.com/watch?v=n4KFRXa9tUg",
+      "percent": 100,
+      "fps": 240,
+      "mobile": true
+    },
+    {
+      "user": "Arctical",
+      "link": "https://www.youtube.com/watch?v=3rjlrCFTgDw",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "M336",
+      "link": "https://youtu.be/ZtgDMbsOdYw?si=CssSoWBJ9097lIco&t=4",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "GreenCat",
+      "link": "https://www.youtube.com/watch?v=Qx0XNwPnBj8",
+      "percent": 100,
+      "fps": 240
+    },
+     {
+      "user": "Amityst",
+      "link": "https://m.youtube.com/watch?v=hF3fpdfFkb0",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Cold",
+      "link": "https://www.youtube.com/watch?v=it1Pnxd6pCs",
+      "percent": 100,
+      "fps": 240,
+      "mobile": true
+    },
+    {
+      "user": "Avto",
+      "link": "https://youtu.be/1MVc2k7uSc0?si=HEcJXYc0p95pMovj",
+      "percent": 100,
+      "fps": 240,
+      "mobile": true
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=_WA98L_ml9g&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Txrea",
+      "link": "https://www.youtube.com/watch?v=pFXTPF9-hec",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Boofer",
+      "link": "https://www.youtube.com/watch?v=vWUPeACkG8Q&ab_channel=Boofer",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Osha",
+      "link": "https://www.youtube.com/watch?v=nrmaRQmM7vU",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=9Nf417lwMrU&ab_channel=CF",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Xqvier",
+      "link": "https://youtu.be/2Eju3Pk2O4o?si=Nsp54vNDVMJTDpiu",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

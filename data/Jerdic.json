@@ -1,0 +1,30 @@
+{
+  "id": 4831,
+  "name": "Jerdic",
+  "author": "lblazen",
+  "creators": [],
+  "verifier": "lblazen",
+  "verification": "https://youtu.be/ON8Bq47HVww",
+  "percentToQualify": "50",
+  "password": "Free To Copy",
+  "records": [
+        {
+      "user": "Slopes",
+      "link": "https://www.youtube.com/watch?v=Od2I_NtDFQ4",
+      "percent": 100,
+      "fps": 240
+        },
+        {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=8MXyp_BIMyU",
+      "percent": 100,
+      "fps": 240
+        },
+        {
+      "user": "GreenCat",
+      "link": "https://youtu.be/dJqzilb9qhM",
+      "percent": 100,
+      "fps": 240
+        }
+    ]
+}

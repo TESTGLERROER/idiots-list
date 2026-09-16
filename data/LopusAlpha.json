@@ -1,0 +1,54 @@
+{
+  "id": 75,
+  "name": "Lopus Alpha",
+  "author": "Vexon",
+  "creators": [],
+  "verifier": "Vexon",
+  "verification": "https://youtu.be/meLfdt7MBFI",
+  "percentToQualify": "71",
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "Reverty",
+      "link": "https://youtu.be/v_lXkk6aftQ?si=2w_HjDLeq7g-APvg&t=21",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=8MXyp_BIMyU",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "GreenCat",
+      "link": "https://www.youtube.com/watch?v=xNtjzW1zj-M",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "MaybeSplash",
+      "link": "https://youtu.be/1ajSbkTDj5Y",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=9Nf417lwMrU&ab_channel=CF",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "SnowfallGD",
+      "link": "https://youtu.be/iP6nYKke20I",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "liam",
+      "link": "https://youtu.be/iP6nYKke20I",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

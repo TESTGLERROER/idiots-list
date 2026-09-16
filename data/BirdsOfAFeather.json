@@ -1,0 +1,31 @@
+{
+    "id": 4536,
+    "name": "Birds of a Feather",
+    "author": "bazzie",
+    "creators": [],
+    "verifier": "lblazen",
+    "verification": "https://youtu.be/gh4Qui6TplY",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "GreenCat",
+            "link": "https://youtu.be/N4lrCJTzF4c",
+            "percent": 100,
+            "fps": 300
+        },
+        {
+          "user": "Cold",
+          "link": "https://www.youtube.com/watch?v=IzpPfILLAwc",
+          "percent": 100,
+          "fps": 120,
+          "mobile": true
+        },
+        {
+          "user": "Jayxofc",
+          "link": "https://www.youtube.com/watch?v=PXSk6Z6Dm-E&ab_channel=Jayxofc",
+          "percent": 100,
+          "fps": "CBF"
+        }
+    ]
+}

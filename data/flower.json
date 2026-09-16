@@ -1,0 +1,43 @@
+{
+  "id": 4518,
+  "name": "flower",
+  "author": "lblazen",
+  "creators": [],
+  "verifier": "lblazen",
+  "verification": "https://youtu.be/3JgbK7ILbLU",
+  "percentToQualify": "64",
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=gZBtchj7UyI",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=xaO1wmTi2g0",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "GreenCat",
+      "link": "https://www.youtube.com/watch?v=j-Xq7WNt6wQ",
+      "percent": 100,
+      "fps": 240
+    },
+      {
+      "user": "Cold",
+      "link": "https://www.youtube.com/watch?v=NRBw12FDoh0",
+      "percent": 100,
+      "fps": 240,
+      "mobile": true
+    },
+    {
+      "user": "M336",
+      "link": "https://youtu.be/_mFMZ84Ps1A?si=i2Ngow6gtKP_cBDn&t=575",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

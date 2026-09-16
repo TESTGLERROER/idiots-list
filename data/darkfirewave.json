@@ -1,0 +1,18 @@
+{
+  "id": 9409,
+  "name": "dark fire wave",
+  "author": "Sky",
+  "creators": [],
+  "verifier": "Ino",
+  "verification": "https://youtu.be/IHUOWHk0FUA",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+        {
+            "user": "flo.wer",
+            "link": "https://www.youtube.com/watch?v=3Y5_fhtYASs",
+            "percent": 100,
+            "hz": 360
+        }
+  ]
+}

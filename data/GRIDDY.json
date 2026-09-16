@@ -1,0 +1,30 @@
+{
+  "id": "8596",
+  "name": "Griddy",
+  "author": "Boofer",
+  "creators": [],
+  "verifier": "Jayxofc",
+  "verification": "https://www.youtube.com/watch?v=fkzkHpNruYU&ab_channel=Jayxofc",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "M336",
+      "link": "https://youtu.be/ZsuRnscsXg0?si=MRL5JCmHsDxxir_G&t=579",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=UU5T_wJAhIM&ab_channel=CF",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "ReedTimmersSorbet",
+      "link": "https://youtu.be/cZdjJmNEFTI",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

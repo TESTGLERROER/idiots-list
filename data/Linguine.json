@@ -1,0 +1,24 @@
+{
+  "id": "7458",
+  "name": "Linguine",
+  "author": "GreenCat",
+  "creators": [],
+  "verifier": "Cold",
+  "verification": "https://www.youtube.com/watch?v=RqcZxexYJlc",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "flo.wer",
+      "link": "https://youtu.be/QLMC3Q8V1Aw",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "FogMello",
+      "link": "https://youtu.be/u2sghjCW_YY",
+      "percent": 100,
+      "fps": "CBF"
+    }
+    ]
+}

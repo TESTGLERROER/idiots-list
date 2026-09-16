@@ -1,0 +1,30 @@
+{
+    "id": 1110,
+    "name": "silentcircles",
+    "author": "JensenCranks90s",
+    "creators": ["JensenCranks90s"],
+    "verifier": "JensenCranks90s",
+    "verification": "https://youtu.be/vcXXaSncLGs",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "GDTurek",
+            "link": "https://youtu.be/WiMdEWaNyIE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kartel",
+            "link": "https://youtu.be/1avCi8VRmQU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "flo.wer",
+            "link": "https://www.youtube.com/watch?v=zyq0A5dtk7A",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

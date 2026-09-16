@@ -1,0 +1,30 @@
+{
+    "id": 9606,
+    "name": "I HXTE BXXFER",
+    "author": "lost",
+    "creators": [],
+    "verifier": "lost",
+    "verification": "https://www.youtube.com/watch?v=kjBaOO6-a-4",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "flo.wer",
+            "link": "https://www.youtube.com/watch?v=3Y5_fhtYASs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Jayxofc",
+            "link": "https://www.youtube.com/watch?v=1UZwsbMj9_w",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Arctical",
+            "link": "https://youtu.be/96aR4aXLwsc",
+            "percent": 100,
+            "fps": "240"
+        }   
+    ]
+}

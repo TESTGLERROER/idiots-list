@@ -1,0 +1,24 @@
+{
+  "id": 8318,
+  "name": "funny fantasy",
+  "author": "xlord",
+  "creators": [],
+  "verifier": "xlord",
+  "verification": "https://www.youtube.com/watch?v=Bki5F88JFDA",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "M336",
+      "link": "https://youtu.be/V4zH1Y1JV5M?si=OsBjFQ0-CTFgbTnc&t=562",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=OGw17CSXSHc&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

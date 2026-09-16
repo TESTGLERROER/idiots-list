@@ -1,0 +1,48 @@
+{
+  "id": 8066,
+  "name": "Ball So Hard",
+  "author": "PerchanceCF",
+  "creators": ["PerchanceCF"],
+  "verifier": "CF.",
+  "verification": "https://youtu.be/nWDMJj5EfRQ",
+  "percentToQualify": "100",
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=_WA98L_ml9g&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "M336",
+      "link": "https://youtu.be/UiR92eM-cC4?si=4kqTAz6PfcpfRX03&t=444",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "flo.wer",
+      "link": "https://www.youtube.com/watch?v=qadNSQa0VoA",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Txrea",
+      "link": "https://youtu.be/0-DUX9uX_TY",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Tabbi",
+      "link": "https://www.youtube.com/watch?v=6snT1NROui0&ab_channel=Tabbi4k",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "ReedTimmersSorbet",
+      "link": "https://www.youtube.com/watch?v=cZdjJmNEFTI",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 4746,
+  "name": "explastion",
+  "author": "BLCKD",
+  "creators": [],
+  "verifier": "BLCKD",
+  "verification": "https://www.youtube.com/watch?v=N9sB-8H36aQ",
+  "percentToQualify": "76",
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "lblazen",
+      "link": "https://www.youtube.com/watch?v=isi9iNYDy1o",
+      "percent": 100,
+      "fps": 120
+    },
+    {
+      "user": "Slopes",
+      "link": "https://youtu.be/7vi1arRwH6Y",
+      "percent": 100,
+      "fps": "CBF"
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=gZBtchj7UyI",
+      "percent": 100,
+      "fps": "CBF"
+    },
+    {
+      "user": "GreenCat",
+      "link": "https://www.youtube.com/watch?v=oGIOunaWzGw",
+      "percent": 100,
+      "fps": "CBF"
+    },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=9Nf417lwMrU&ab_channel=CF",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "M336",
+      "link": "https://youtu.be/HRVg9Xbzcws?si=YNs-xYmDUOyZJ8OB&t=577",
+      "percent": 100,
+      "fps": 360
+    },
+    {
+      "user": "zJenseb",
+      "link": "https://www.youtube.com/watch?v=IQDlzlDMa1U",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

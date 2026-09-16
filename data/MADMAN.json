@@ -1,0 +1,49 @@
+{
+    "id": 7465,
+    "name": "MADMAN",
+    "author": "flo.wer",
+    "creators": [],
+    "verifier": "flo.wer",
+    "verification": "https://www.youtube.com/watch?v=o_xgoF3AZJU",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "kartel",
+            "link": "https://youtu.be/lVdNhEvU07o",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+            "user": "lblazen",
+            "link": "https://youtu.be/tUFL9iSDUYo?si=PnakPFp7YlBl2izW&t=40",
+            "percent": 100,
+            "fps": 240
+        },
+         {
+            "user": "GreenCat",
+            "link": "https://www.youtube.com/watch?v=Qx0XNwPnBj8",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+      "user": "Cold",
+      "link": "https://www.youtube.com/watch?v=kR2LMiNeyl0",
+      "percent": 100,
+      "fps": 240,
+      "mobile": true
+        },
+        {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=_WA98L_ml9g&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+        },
+        {
+            "user": "CF.",
+            "link": "https://www.youtube.com/watch?v=rtqfYMi3CIg",
+            "percent": 100,
+            "fps": 240
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 9490,
+  "name": "jayxofc yt",
+  "author": "Cold",
+  "creators": [],
+  "verifier": "Cold",
+  "verification": "https://youtu.be/GBMZXAA4wpE?si=ANEVdUi4TuZIWFrU",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+     {
+      "user": "FogMello",
+      "link": "https://www.youtube.com/watch?v=lVi2poahoJs",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

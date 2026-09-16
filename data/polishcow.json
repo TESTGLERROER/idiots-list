@@ -1,0 +1,48 @@
+{
+    "id": 7018,
+    "name": "Polish cow challenge",
+    "author": "GooseGoose",
+    "creators": [],
+    "verifier": "Boofer",
+    "verification": "https://youtu.be/E5NlSFwNA4I",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+      "user": "Avto",
+      "link": "https://www.youtube.com/watch?v=iHDPT2eAKq0",
+      "percent": 100,
+      "fps": 240
+        },
+        {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=0VvblWNthqw&feature=youtu.be",
+      "percent": 100,
+      "fps": 240
+        },
+        {
+      "user": "M336",
+      "link": "https://youtu.be/us1A5B9aEmc?si=aCebgt1zzyMMpwEz&t=279",
+      "percent": 100,
+      "fps": 240
+        },
+        {
+      "user": "Osha",
+      "link": "https://youtu.be/-fIqtcdcqOM",
+      "percent": 100,
+      "fps": 240
+        },
+        {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=UU5T_wJAhIM&ab_channel=CF",
+      "percent": 100,
+      "fps": 240
+    },
+        {
+      "user": "flo.wer",
+      "link": "https://www.youtube.com/watch?v=aUahv3-8_30&ab_channel=Lacley",
+      "percent": 100,
+      "fps": 240
+    }
+    ]
+}

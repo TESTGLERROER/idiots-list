@@ -1,0 +1,30 @@
+{
+  "id": 8818,
+  "name": "gastism",
+  "author": "Sky",
+  "creators": [],
+  "verifier": "Ino",
+  "verification": "https://youtu.be/Qq_TulRdqBk",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=vel89LXkQH0&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "M336",
+      "link": "https://youtu.be/AkOEvOVN1Hs?si=bYZLRy1ttI5qy8GZ&t=176",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "snowfall",
+      "link": "https://youtu.be/Wz8i4RQKTJ4?si=F1NunpCWav7_Ac9z&t=213",
+      "percent": 100,
+      "fps": "CBF"
+    }
+  ]
+}

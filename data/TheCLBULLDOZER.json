@@ -1,0 +1,24 @@
+{
+    "id": 10038,
+    "name": "The CL BULLDOZER",
+    "author": "MangoSherbet",
+    "creators": [],
+    "verifier": "ReedTimmersSorbet",
+    "verification": "https://www.youtube.com/watch?v=YCmVfjXsLC8",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+    {
+      "user": "Boofer",
+      "link": "https://youtu.be/X4vsgUV3yO8",
+      "percent": 100,
+      "hz": "CBF"
+    },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=8gM7j7uiqRM",
+      "percent": 100,
+      "hz": "CBF"
+    }
+    ]
+}

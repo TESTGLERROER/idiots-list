@@ -1,0 +1,121 @@
+{
+  "id": 862,
+  "name": "Injured",
+  "author": "Malacraft7",
+  "creators": [],
+  "verifier": "Vexon",
+  "verification": "https://youtu.be/oevKhc3AR1I?si=w0bwhVszhqVAS--D",
+  "percentToQualify": "63",
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "MaybeSplash",
+      "link": "https://youtu.be/7KKMhpXE5eo",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "flo.wer",
+      "link": "https://www.youtube.com/watch?v=16LBZ9Z6C_M",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "lblazen",
+      "link": "https://youtu.be/6PSDiw5O-BM",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "kartel",
+      "link": "https://youtu.be/Xrb7VeJ-3j4",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "GDTurek",
+      "link": "https://www.youtube.com/watch?v=59XOJxLsW2c",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=tfMMRoFaInY&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "plasticstic",
+      "link": "https://www.youtube.com/watch?v=F72ve5BiZkQ",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "ToastyTP",
+      "link": "https://youtu.be/ruApVtHFbro?si=498hjV6FSvAi9e6S&t=9",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "ThatPizzaGod",
+      "link": "https://www.youtube.com/watch?v=hu6K0zh93vk",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "M336",
+      "link": "https://www.youtube.com/watch?v=bAchWlnt0_4&t=1160s",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "iTzFrY",
+      "link": "https://youtu.be/2ttsUaY_CMQ?si=MlU4VOzZhRiWJpgZ",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=_tXgm_C9T-s",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "GreenCat",
+      "link": "https://www.youtube.com/watch?v=xNtjzW1zj-M",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Arctical",
+      "link": "https://youtu.be/Ro3VJGp25ag",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "liam",
+      "link": "https://youtu.be/C1n_twHnR6g?si=fccndKqAoZm93OPi&t=1340",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Cold",
+      "link": "https://www.youtube.com/watch?v=qGxW85pLrCg",
+      "percent": 100,
+      "fps": 240,
+      "mobile": true
+    },
+        {
+      "user": "snowfall",
+      "link": "https://www.youtube.com/watch?v=cw8E2KTtxDw&t=485s",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "ReedTimmersSorbet",
+      "link": "https://www.youtube.com/watch?v=AC1FrLnpJCM",
+      "percent": 100,
+      "fps": "CBF"
+    }
+  ]
+}

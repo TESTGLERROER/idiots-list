@@ -1,0 +1,18 @@
+{
+  "id": 8145,
+  "name": "Avernus Challenge",
+  "author": "Zenraii",
+  "creators": [],
+  "verifier": "CF.",
+  "verification": "https://www.youtube.com/watch?v=nYqesCTiV8E",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+                {
+            "user": "FogMello",
+            "link": "https://www.youtube.com/watch?v=Hcz1hAItQUM",
+            "percent": 100,
+            "fps": 240
+        }
+  ]
+}

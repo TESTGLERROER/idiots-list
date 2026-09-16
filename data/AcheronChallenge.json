@@ -1,0 +1,24 @@
+{
+    "id": 3728,
+    "name": "Acheron Challenge",
+    "author": "Space",
+    "creators": [],
+    "verifier": "Space",
+    "verification": "https://youtu.be/wiMvBpFma10",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Kyy",
+            "link": "https://www.youtube.com/watch?v=yNCKelBk3s8&t=180s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MaybeSplash",
+            "link": "https://www.youtube.com/watch?v=Y4yqiku_DlE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

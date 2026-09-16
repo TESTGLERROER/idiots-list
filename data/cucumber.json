@@ -1,0 +1,36 @@
+{
+  "id": 8427,
+  "name": "Cucumber",
+  "author": "Txrea",
+  "creators": [],
+  "verifier": "Txrea",
+  "verification": "https://www.youtube.com/watch?v=XxQocFhxDjI",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "flo.wer",
+      "link": "https://www.youtube.com/watch?v=hQ2fUkPiS-o",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "M336",
+      "link": "https://youtu.be/i5WE8EjH4xQ?si=VL1xGikT05wLR8QU&t=269",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=OGw17CSXSHc&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=UU5T_wJAhIM&ab_channel=CF",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

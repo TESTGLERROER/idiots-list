@@ -1,0 +1,24 @@
+{
+  "id": "8799",
+  "name": "gas goal",
+  "author": "Sky",
+  "creators": [],
+  "verifier": "Ino",
+  "verification": "https://youtu.be/yV6CGs1tjEw",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=W-i-z9ioKtk&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "M336",
+      "link": "https://www.youtube.com/watch?v=elGmvpIcMyM&ab_channel=M336",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

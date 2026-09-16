@@ -1,0 +1,18 @@
+{
+    "id": 8505,
+    "name": "Heart Attack",
+    "author": "osha",
+    "creators": [],
+    "verifier": "FogMello",
+    "verification": "https://www.youtube.com/watch?v=3-zPgWI31E0&ab_channel=FogMello",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=FMumksmFhS4&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+        }
+    ]
+}

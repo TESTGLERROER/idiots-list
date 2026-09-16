@@ -1,0 +1,37 @@
+{
+  "id": 4718,
+  "name": "5BOP",
+  "author": "GreenCat",
+  "creators": [],
+  "verifier": "flo.wer",
+  "verification": "https://www.youtube.com/watch?v=XKj8UjzpPSg",
+  "percentToQualify": "100",
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "fnc",
+      "link": "https://www.youtube.com/watch?v=7j2znqGkXhY",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Cold",
+      "link": "https://www.youtube.com/watch?v=hC8o4l-K9dg",
+      "percent": 100,
+      "fps": 120,
+      "mobile": true
+    },
+    {
+      "user": "FogMello",
+      "link": "https://www.youtube.com/watch?v=bp0LLcXcgrQ",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=VBh2BtjCvMg&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 480
+    }
+  ]
+}

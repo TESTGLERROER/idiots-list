@@ -1,0 +1,60 @@
+{
+  "id": 2772,
+  "name": "White Edge",
+  "author": "Quoniam",
+  "creators": [],
+  "verifier": "Jayxofc",
+  "verification": "https://www.youtube.com/watch?v=ECR66bqtSIQ",
+  "percentToQualify": "64",
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "Space",
+      "link": "https://www.youtube.com/watch?v=AKUGDI-ncWI",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "MaybeSplash",
+      "link": "https://www.youtube.com/watch?v=msMG-SjgXPg",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Slopes",
+      "link": "https://youtu.be/fItbA6-ddMI?si=vxpMg-byIxS2kwg6&t=30",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "lblazen",
+      "link": "https://youtu.be/1bhEsxaNSPI?si=eqoiBsc0kd3UJjrh&t=10",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=CPTdGeFUn94",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "GreenCat",
+      "link": "https://www.youtube.com/watch?v=xNtjzW1zj-M",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "iTzFrY",
+      "link": "https://www.youtube.com/watch?v=7ZBKj4LXTO0",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "M336",
+      "link": "https://youtu.be/K0Dcag0OwMg?si=gZOlopx2kc1bzfz6&t=502",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "7981",
+  "name": "Cadmium",
+  "author": "flo.wer",
+  "creators": [],
+  "verifier": "flo.wer",
+  "verification": "https://youtu.be/VoVYly8adnc",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "DubbyBall",
+      "link": "https://www.youtube.com/watch?v=5FPtfU5hCxs",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Cold",
+      "link": "https://youtu.be/LZ3C_yxifFM?si=8uE2O2BuhvKW83HV&t=50",
+      "percent": 100,
+      "fps": 120,
+      "mobile": true
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://youtu.be/YORkrbFd4YU?si=1RAdz9geZ6mJ5rHV&t=34",
+      "percent": 100,
+      "fps": "CBF"
+    }
+  ]
+}

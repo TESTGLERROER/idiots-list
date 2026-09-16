@@ -1,0 +1,35 @@
+{
+  "id": "7223",
+  "name": "GRUNGE",
+  "author": "pezdispensery",
+  "creators": [],
+  "verifier": "GreenCat",
+  "verification": "https://youtu.be/WOTkocBZShI",
+  "percentToQualify": 61,
+  "records": [
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=_WA98L_ml9g&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=UU5T_wJAhIM&ab_channel=CF",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "flo.wer",
+      "link": "https://www.youtube.com/watch?v=aUahv3-8_30&ab_channel=Lacley",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "ReedTimmersSorbet",
+      "link": "https://www.youtube.com/watch?v=JIQmldOKybs",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 9749,
+    "name": "Want to love",
+    "author": "xLord",
+    "creators": [],
+    "verifier": "xlord",
+    "verification": "https://www.youtube.com/watch?v=Wg3DnVepfVg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=q_bDwlpwQ9o",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Boofer",
+      "link": "https://www.youtube.com/watch?v=q_bDwlpwQ9o",
+      "percent": 100,
+      "fps": "CBF"
+    },
+    {
+      "user": "snowfall",
+      "link": "https://www.youtube.com/watch?v=q4UVKsOhfzA&t=82s",
+      "percent": 100,
+      "fps": "CBF"
+    },
+    {
+      "user": "liam",
+      "link": "https://www.youtube.com/watch?v=-MxJS5ycefM",
+      "percent": 100,
+      "fps": "CBF"
+    }
+    ]
+}

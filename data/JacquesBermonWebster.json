@@ -1,0 +1,48 @@
+{
+  "id": 8421,
+  "name": "JacquesBermonWebster",
+  "author": "Boofer",
+  "creators": [],
+  "verifier": "Boofer",
+  "verification": "https://www.youtube.com/watch?v=0AJW8KyscLQ",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "flo.wer",
+      "link": "https://www.youtube.com/watch?v=hQ2fUkPiS-o",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "M336",
+      "link": "https://youtu.be/kDQXL6XegAU?si=5y25CVUmHRa42E-A&t=351",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=OGw17CSXSHc&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=UU5T_wJAhIM&ab_channel=CF",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "snowfall",
+      "link": "https://youtu.be/W88n-IST0zQ?si=5TfjMVfvvwUjJtLH&t=137",
+      "percent": 100,
+      "fps": "CBF"
+    },
+    {
+      "user": "fredcakee",
+      "link": "https://youtu.be/c5MDzSbSQ-Q",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

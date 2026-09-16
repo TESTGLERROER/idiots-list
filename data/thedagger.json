@@ -1,0 +1,42 @@
+{
+  "id": 8276,
+  "name": "the dagger",
+  "author": "Arctical",
+  "creators": [],
+  "verifier": "Arctical",
+  "verification": "https://youtu.be/O9kcCu1eCm4",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "M336",
+      "link": "https://youtu.be/--q5HnGJuzY?si=Qztku7fshnNMqMge&t=516",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=OGw17CSXSHc&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=UU5T_wJAhIM&ab_channel=CF",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "flo.wer",
+      "link": "https://www.youtube.com/watch?v=aUahv3-8_30&ab_channel=Lacley",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "ReedTimmersSorbet",
+      "link": "https://www.youtube.com/watch?v=RXSjwDiKNvk",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

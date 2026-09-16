@@ -1,0 +1,42 @@
+{
+  "id": 8476,
+  "name": "Marshall Mathers challange",
+  "author": "Boofer",
+  "creators": [],
+  "verifier": "Boofer",
+  "verification": "https://www.youtube.com/watch?v=KtLaOhu02V8",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "M336",
+      "link": "https://youtu.be/4kbXxJ7RkfQ?si=lUQ9MNA6Zs0OAJfC&t=573",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=OGw17CSXSHc&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=UU5T_wJAhIM&ab_channel=CF",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "flo.wer",
+      "link": "https://www.youtube.com/watch?v=aUahv3-8_30&ab_channel=Lacley",
+      "percent": 100,
+      "fps": 240
+    },
+        {
+      "user": "snowfall",
+      "link": "https://www.youtube.com/watch?v=CJu4fg8yIIg&t=246s",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

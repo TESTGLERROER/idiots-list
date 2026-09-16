@@ -1,0 +1,30 @@
+{
+  "id": "8579",
+  "name": "DNA",
+  "author": "liam",
+  "creators": [],
+  "verifier": "MaybeSplash",
+  "verification": "https://youtu.be/HQrfQHkaOFs",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=8eWZmlS4qTg&ab_channel=Jayxofc",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "M336",
+      "link": "https://youtu.be/a-X3Mx0zBE4?si=uh68MN-BPVMpGLU0&t=198",
+      "percent": 100,
+      "hz": 240
+    },
+    {
+      "user": "Kyy",
+      "link": "https://www.youtube.com/watch?v=HYI2CMnQxKY&ab_channel=blackscreen",
+      "percent": 100,
+      "hz": 240
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8053,
+  "name": "Turned On",
+  "author": "Amityst",
+  "creators": [],
+  "verifier": "MaybeSplash",
+  "verification": "https://www.youtube.com/watch?v=3cgTRa-nDRM",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "Jayxofc",
+      "link": "https://www.youtube.com/watch?v=_WA98L_ml9g&ab_channel=Jayxofc",
+      "percent": 100,
+      "fps": 240
+    },
+    {
+      "user": "M336",
+      "link": "https://www.youtube.com/watch?v=Cw8SKdw_FVY&t=579s",
+      "percent": 100,
+      "fps": 240
+    },
+      {
+      "user": "lost",
+      "link": "https://medal.tv/games/requested/clips/jTtywxFkQpqh6Wg6D?invite=cr-MSxGdjIsMjUxMDk3MDY3",
+      "percent": 100,
+      "fps": 240
+    }
+  ]
+}

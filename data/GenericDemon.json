@@ -1,0 +1,18 @@
+{
+    "id": 3132,
+    "name": "Generic Demon",
+    "author": "Jayxofc",
+    "creators": [],
+    "verifier": "Jayxofc",
+    "verification": "https://youtu.be/0MZ2XepblNg?si=kZTGqTneU2K_w-In",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "MaybeSplash",
+            "link": "https://www.youtube.com/watch?v=FCjvtQvz0mc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "id": 1082,
+    "name": "Sakupen Circles",
+    "author": "JensenCranks90s",
+    "creators": ["JensenCranks90s"],
+    "verifier": "JensenCranks90s",
+    "verification": "https://youtu.be/TctxYd2zZFg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "lblazen",
+            "link": "https://youtu.be/6PSDiw5O-BM",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+            "user": "Avto",
+            "link": "https://youtu.be/dsWMJdzJph4?si=hepHd1P6942VQsNw",
+            "percent": 100,
+            "fps": 240,
+            "mobile": true
+        },
+        {
+            "user": "kartel",
+            "link": "https://youtu.be/mEF_OiLxgB0?si=OEncfbq0z93Oa4Bd",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+            "user": "flo.wer",
+            "link": "https://www.youtube.com/watch?v=MF--lg48Rvk",
+            "percent": 100,
+            "fps": 240
+        },
+         {
+            "user": "GreenCat",
+            "link": "https://www.youtube.com/watch?v=Qx0XNwPnBj8",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+            "user": "Arctical",
+            "link": "https://youtu.be/aJJavoqRS6U",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+            "user": "Virek",
+            "link": "https://youtu.be/d5QZTWv3YNE",
+            "percent": 100,
+            "fps": 240,
+            "mobile": true
+        },
+        {
+            "user": "Amityst",
+            "link": "https://www.youtube.com/watch?v=NATXkp5kjWE",
+            "percent": 100,
+            "fps": 240,
+            "mobile": true
+        },
+        {
+            "user": "Jayxofc",
+            "link": "https://www.youtube.com/watch?v=_WA98L_ml9g&ab_channel=Jayxofc",
+            "percent": 100,
+            "fps": 240
+        },
+        {
+      "user": "M336",
+      "link": "https://youtu.be/eoBsIvWwdEM?si=hV8owS3FrtMyktkQ&t=20",
+      "percent": 100,
+      "fps": 240
+        },
+        {
+      "user": "Txrea",
+      "link": "https://www.youtube.com/watch?v=ktPOG-9UpBE",
+      "percent": 100,
+      "fps": 240
+        },
+        {
+      "user": "CF.",
+      "link": "https://www.youtube.com/watch?v=9Nf417lwMrU&ab_channel=CF",
+      "percent": 100,
+      "fps": 240
+    }
+    ]
+}

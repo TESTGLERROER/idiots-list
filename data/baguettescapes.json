@@ -1,0 +1,19 @@
+{
+  "id": 8811,
+  "name": "Baguettescapes",
+  "author": "NotSplash",
+  "creators": [],
+  "verifier": "Jayxofc",
+  "verification": "https://youtu.be/ssg7EddDSAk?si=XJMBhYWV-YpldRUf",
+  "percentToQualify": 100,
+  "password": "Free To Copy",
+  "records": [
+    {
+      "user": "Virek",
+      "link": "https://www.youtube.com/watch?v=Edq-Uu27z30",
+      "percent": 100,
+      "fps": 240,
+      "mobile": true
+    }
+  ]
+}
